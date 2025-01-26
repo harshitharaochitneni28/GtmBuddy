@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+flask
+spacy
+nltk
+matplotlib
+seaborn
+pickle-mixin
