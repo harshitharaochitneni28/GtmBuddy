@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "text_snippet": "Our team is worried about data privacy.",
+    "labels": "Security,Objection"
+  },
+  {
+    "id": 2,
+    "text_snippet": "Our team is worried about data privacy.",
+    "labels": "Pricing Discussion,Technical Discussion,Competition"
+  },
+  {
+    "id": 3,
+    "text_snippet": "We're concerned about data privacy and integration.",
+    "labels": "Pricing Discussion"
+  },
+  {
+    "id": 4,
+    "text_snippet": "We're concerned about data privacy and integration.",
+    "labels": "Objection,Competition,Pricing Discussion"
+  },
+  {
+    "id": 5,
+    "text_snippet": "We love the AI engine, but CompetitorY has a cheaper subscription.",
+    "labels": "Pricing Discussion"
+  },
+  {
+    "id": 6,
+    "text_snippet": "We love the analytics, but CompetitorY has a cheaper subscription.",
+    "labels": "Positive,Pricing Discussion,Technical Discussion"
+  },
+  {
+    "id": 7,
+    "text_snippet": "Your data pipeline seems impressive compared to others.",
+    "labels": "Positive,Objection"
+  },
+  {
+    "id": 8,
+    "text_snippet": "Our team is worried about data privacy.",
+    "labels": "Pricing Discussion,Objection,Technical Discussion"
+  },
+  {
+    "id": 9,
+    "text_snippet": "Your data pipeline seems impressive compared to others.",
+    "labels": "Security,Positive,Technical Discussion"
+  },
+  {
+    "id": 10,
+    "text_snippet": "Can we discuss renewal cost for our deployment?",
+    "labels": "Positive"
+  },
+  {
+    "id": 11,
+    "text_snippet": "We're concerned about data privacy and integration.",
+    "labels": "Positive,Pricing Discussion,Security"
+  },
+  {
+    "id": 12,
+    "text_snippet": "Can we discuss budget for our deployment?",
+    "labels": "Positive,Objection,Pricing Discussion"
+  },
+  {
+    "id": 13,
+    "text_snippet": "Your analytics seems impressive compared to others.",
+    "labels": "Technical Discussion,Security"
+  },
+  {
+    "id": 14,
+    "text_snippet": "Our team is worried about data privacy.",
+    "labels": "Objection,Positive,Security"
+  },
+  {
+    "id": 15,
+    "text_snippet": "We love the data pipeline, but CompetitorZ has a cheaper subscription.",
+    "labels": "Competition,Pricing Discussion"
+  },
+  {
+    "id": 16,
+    "text_snippet": "Your analytics seems impressive compared to others.",
+    "labels": "Competition,Pricing Discussion,Technical Discussion"
+  },
+  {
+    "id": 17,
+    "text_snippet": "Your analytics seems impressive compared to others.",
+    "labels": "Security"
+  },
+  {
+    "id": 18,
+    "text_snippet": "Your AI engine seems impressive compared to others.",
+    "labels": "Technical Discussion"
+  },
+  {
+    "id": 19,
+    "text_snippet": "Can we discuss renewal cost for our deployment?",
+    "labels": "Objection,Competition"
+  },
+  {
+    "id": 20,
+    "text_snippet": "Our team is worried about data privacy.",
+    "labels": "Pricing Discussion"
+  },
+  {
+    "id": 21,
+    "text_snippet": "Can we discuss renewal cost for our deployment?",
+    "labels": "Objection,Positive"
+  },
+  {
+    "id": 22,
+    "text_snippet": "We love the AI engine, but CompetitorZ has a cheaper subscription.",
+    "labels": "Security,Objection"
+  },
+  {
+    "id": 23,
+    "text_snippet": "Our team is worried about data privacy.",
+    "labels": "Pricing Discussion,Objection"
+  },
+  {
+    "id": 24,
+    "text_snippet": "We're concerned about data privacy and integration.",
+    "labels": "Security,Competition,Positive"
+  },
+  {
+    "id": 25,
+    "text_snippet": "Your data pipeline seems impressive compared to others.",
+    "labels": "Technical Discussion,Objection,Security"
+  },
+  {
+    "id": 26,
+    "text_snippet": "We love the analytics, but CompetitorZ has a cheaper subscription.",
+    "labels": "Pricing Discussion,Positive"
+  },
+  {
+    "id": 27,
+    "text_snippet": "Can we discuss budget for our deployment?",
+    "labels": "Technical Discussion,Objection"
+  },
+  {
+    "id": 28,
+    "text_snippet": "Your data pipeline seems impressive compared to others.",
+    "labels": "Positive,Security"
+  },
+  {
+    "id": 29,
+    "text_snippet": "Our team is worried about data privacy.",
+    "labels": "Positive,Pricing Discussion,Competition"
+  },
+  {
+    "id": 30,
+    "text_snippet": "Can we discuss renewal cost for our deployment?",
+    "labels": "Objection,Competition,Technical Discussion"
+  },
+  {
+    "id": 31,
+    "text_snippet": "Your AI engine seems impressive compared to others.",
+    "labels": "Objection,Technical Discussion"
+  },
+  {
+    "id": 32,
+    "text_snippet": "We're concerned about data privacy and integration.",
+    "labels": "Competition,Positive,Security"
+  },
+  {
+    "id": 33,
+    "text_snippet": "We love the AI engine, but CompetitorX has a cheaper subscription.",
+    "labels": "Security,Competition,Pricing Discussion"
+  },
+  {
+    "id": 34,
+    "text_snippet": "Can we discuss budget for our deployment?",
+    "labels": "Technical Discussion"
+  },
+  {
+    "id": 35,
+    "text_snippet": "Your data pipeline seems impressive compared to others.",
+    "labels": "Objection"
+  },
+  {
+    "id": 36,
+    "text_snippet": "We love the AI engine, but CompetitorZ has a cheaper subscription.",
+    "labels": "Objection,Competition"
+  },
+  {
+    "id": 37,
+    "text_snippet": "We love the AI engine, but CompetitorZ has a cheaper subscription.",
+    "labels": "Objection"
+  },
+  {
+    "id": 38,
+    "text_snippet": "We love the AI engine, but CompetitorY has a cheaper subscription.",
+    "labels": "Objection"
+  },
+  {
+    "id": 39,
+    "text_snippet": "Our team is worried about data privacy.",
+    "labels": "Competition,Positive"
+  },
+  {
+    "id": 40,
+    "text_snippet": "We love the AI engine, but CompetitorX has a cheaper subscription.",
+    "labels": "Objection,Competition"
+  },
+  {
+    "id": 41,
+    "text_snippet": "We're concerned about data privacy and integration.",
+    "labels": "Pricing Discussion,Objection,Competition"
+  },
+  {
+    "id": 42,
+    "text_snippet": "Our team is worried about data privacy.",
+    "labels": "Pricing Discussion,Competition"
+  },
+  {
+    "id": 43,
+    "text_snippet": "Your AI engine seems impressive compared to others.",
+    "labels": "Security"
+  },
+  {
+    "id": 44,
+    "text_snippet": "We love the data pipeline, but CompetitorX has a cheaper subscription.",
+    "labels": "Objection,Technical Discussion,Security"
+  },
+  {
+    "id": 45,
+    "text_snippet": "We love the analytics, but CompetitorY has a cheaper subscription.",
+    "labels": "Positive,Competition"
+  },
+  {
+    "id": 46,
+    "text_snippet": "Your AI engine seems impressive compared to others.",
+    "labels": "Security,Competition,Pricing Discussion"
+  },
+  {
+    "id": 47,
+    "text_snippet": "We're concerned about data privacy and integration.",
+    "labels": "Pricing Discussion"
+  },
+  {
+    "id": 48,
+    "text_snippet": "Your data pipeline seems impressive compared to others.",
+    "labels": "Pricing Discussion,Technical Discussion"
+  },
+  {
+    "id": 49,
+    "text_snippet": "We're concerned about data privacy and integration.",
+    "labels": "Competition"
+  },
+  {
+    "id": 50,
+    "text_snippet": "Your analytics seems impressive compared to others.",
+    "labels": "Objection,Technical Discussion"
+  },
+  {
+    "id": 51,
+    "text_snippet": "Your data pipeline seems impressive compared to others.",
+    "labels": "Positive,Competition"
+  },
+  {
+    "id": 52,
+    "text_snippet": "Our team is worried about data privacy.",
+    "labels": "Positive,Pricing Discussion"
+  },
+  {
+    "id": 53,
+    "text_snippet": "We're concerned about data privacy and integration.",
+    "labels": "Technical Discussion,Pricing Discussion,Competition"
+  },
+  {
+    "id": 54,
+    "text_snippet": "We're concerned about data privacy and integration.",
+    "labels": "Security"
+  },
+  {
+    "id": 55,
+    "text_snippet": "Your data pipeline seems impressive compared to others.",
+    "labels": "Competition"
+  },
+  {
+    "id": 56,
+    "text_snippet": "We're concerned about data privacy and integration.",
+    "labels": "Security,Positive"
+  },
+  {
+    "id": 57,
+    "text_snippet": "Can we discuss discount for our deployment?",
+    "labels": "Positive"
+  },
+  {
+    "id": 58,
+    "text_snippet": "Our team is worried about data privacy.",
+    "labels": "Competition"
+  },
+  {
+    "id": 59,
+    "text_snippet": "We love the analytics, but CompetitorY has a cheaper subscription.",
+    "labels": "Security,Positive"
+  },
+  {
+    "id": 60,
+    "text_snippet": "Can we discuss discount for our deployment?",
+    "labels": "Technical Discussion"
+  },
+  {
+    "id": 61,
+    "text_snippet": "We're concerned about data privacy and integration.",
+    "labels": "Objection,Positive,Security"
+  },
+  {
+    "id": 62,
+    "text_snippet": "Our team is worried about data privacy.",
+    "labels": "Positive"
+  },
+  {
+    "id": 63,
+    "text_snippet": "We're concerned about data privacy and integration.",
+    "labels": "Pricing Discussion,Competition,Objection"
+  },
+  {
+    "id": 64,
+    "text_snippet": "Our team is worried about data privacy.",
+    "labels": "Competition,Objection"
+  },
+  {
+    "id": 65,
+    "text_snippet": "Your data pipeline seems impressive compared to others.",
+    "labels": "Objection"
+  },
+  {
+    "id": 66,
+    "text_snippet": "We love the AI engine, but CompetitorY has a cheaper subscription.",
+    "labels": "Technical Discussion,Positive"
+  },
+  {
+    "id": 67,
+    "text_snippet": "Your data pipeline seems impressive compared to others.",
+    "labels": "Competition,Positive,Security"
+  },
+  {
+    "id": 68,
+    "text_snippet": "Our team is worried about data privacy.",
+    "labels": "Pricing Discussion"
+  },
+  {
+    "id": 69,
+    "text_snippet": "We love the data pipeline, but CompetitorX has a cheaper subscription.",
+    "labels": "Security"
+  },
+  {
+    "id": 70,
+    "text_snippet": "Our team is worried about data privacy.",
+    "labels": "Pricing Discussion"
+  },
+  {
+    "id": 71,
+    "text_snippet": "Our team is worried about data privacy.",
+    "labels": "Objection"
+  },
+  {
+    "id": 72,
+    "text_snippet": "We're concerned about data privacy and integration.",
+    "labels": "Competition,Security"
+  },
+  {
+    "id": 73,
+    "text_snippet": "Can we discuss budget for our deployment?",
+    "labels": "Pricing Discussion,Objection"
+  },
+  {
+    "id": 74,
+    "text_snippet": "We love the analytics, but CompetitorZ has a cheaper subscription.",
+    "labels": "Objection,Security,Competition"
+  },
+  {
+    "id": 75,
+    "text_snippet": "Can we discuss budget for our deployment?",
+    "labels": "Security,Pricing Discussion"
+  },
+  {
+    "id": 76,
+    "text_snippet": "We're concerned about data privacy and integration.",
+    "labels": "Objection"
+  },
+  {
+    "id": 77,
+    "text_snippet": "Can we discuss discount for our deployment?",
+    "labels": "Security,Objection"
+  },
+  {
+    "id": 78,
+    "text_snippet": "Can we discuss discount for our deployment?",
+    "labels": "Positive"
+  },
+  {
+    "id": 79,
+    "text_snippet": "Our team is worried about data privacy.",
+    "labels": "Pricing Discussion,Technical Discussion"
+  },
+  {
+    "id": 80,
+    "text_snippet": "Can we discuss renewal cost for our deployment?",
+    "labels": "Positive,Competition,Security"
+  },
+  {
+    "id": 81,
+    "text_snippet": "We love the analytics, but CompetitorY has a cheaper subscription.",
+    "labels": "Positive"
+  },
+  {
+    "id": 82,
+    "text_snippet": "We love the data pipeline, but CompetitorX has a cheaper subscription.",
+    "labels": "Competition"
+  },
+  {
+    "id": 83,
+    "text_snippet": "Your analytics seems impressive compared to others.",
+    "labels": "Competition,Security"
+  },
+  {
+    "id": 84,
+    "text_snippet": "We're concerned about data privacy and integration.",
+    "labels": "Positive,Pricing Discussion"
+  },
+  {
+    "id": 85,
+    "text_snippet": "Can we discuss budget for our deployment?",
+    "labels": "Security"
+  },
+  {
+    "id": 86,
+    "text_snippet": "We love the AI engine, but CompetitorX has a cheaper subscription.",
+    "labels": "Pricing Discussion,Security,Technical Discussion"
+  },
+  {
+    "id": 87,
+    "text_snippet": "We're concerned about data privacy and integration.",
+    "labels": "Security,Pricing Discussion"
+  },
+  {
+    "id": 88,
+    "text_snippet": "We love the analytics, but CompetitorX has a cheaper subscription.",
+    "labels": "Technical Discussion,Security,Pricing Discussion"
+  },
+  {
+    "id": 89,
+    "text_snippet": "Can we discuss renewal cost for our deployment?",
+    "labels": "Pricing Discussion,Positive"
+  },
+  {
+    "id": 90,
+    "text_snippet": "We love the AI engine, but CompetitorX has a cheaper subscription.",
+    "labels": "Competition"
+  },
+  {
+    "id": 91,
+    "text_snippet": "We're concerned about data privacy and integration.",
+    "labels": "Objection,Technical Discussion,Security"
+  },
+  {
+    "id": 92,
+    "text_snippet": "Our team is worried about data privacy.",
+    "labels": "Objection,Competition,Security"
+  },
+  {
+    "id": 93,
+    "text_snippet": "Can we discuss budget for our deployment?",
+    "labels": "Positive"
+  },
+  {
+    "id": 94,
+    "text_snippet": "We love the AI engine, but CompetitorZ has a cheaper subscription.",
+    "labels": "Competition,Technical Discussion,Security"
+  },
+  {
+    "id": 95,
+    "text_snippet": "We love the data pipeline, but CompetitorZ has a cheaper subscription.",
+    "labels": "Pricing Discussion"
+  },
+  {
+    "id": 96,
+    "text_snippet": "Your analytics seems impressive compared to others.",
+    "labels": "Competition"
+  },
+  {
+    "id": 97,
+    "text_snippet": "We love the AI engine, but CompetitorY has a cheaper subscription.",
+    "labels": "Technical Discussion,Security"
+  },
+  {
+    "id": 98,
+    "text_snippet": "Can we discuss budget for our deployment?",
+    "labels": "Competition"
+  },
+  {
+    "id": 99,
+    "text_snippet": "We love the data pipeline, but CompetitorY has a cheaper subscription.",
+    "labels": "Pricing Discussion,Technical Discussion,Positive"
+  },
+  {
+    "id": 100,
+    "text_snippet": "Our team is worried about data privacy.",
+    "labels": "Security,Competition"
+  }
+]
